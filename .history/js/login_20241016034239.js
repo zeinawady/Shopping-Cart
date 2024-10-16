@@ -5,6 +5,8 @@ const result=document.getElementById('result');
 
 
 
+
+
 // window.onload=function(){
 //     username_input.value=localStorage.getItem('username')|| ''; //if null returns ''
 // }

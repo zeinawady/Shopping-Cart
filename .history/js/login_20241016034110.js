@@ -3,6 +3,8 @@ const password_input=document.getElementById('password-input');
 const btn=document.getElementById("btn");
 const result=document.getElementById('result');
 
+document.body.style.backgroundImage="url('../images/back.jpg')";
+
 
 
 // window.onload=function(){
