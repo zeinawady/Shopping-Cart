@@ -1,0 +1,40 @@
+.container{
+    transition: transform 0.5s;
+}
+.icon{
+    font-size: 40px;
+    position: relative;
+}
+.icon + span{
+    position: absolute;
+    top: 40px;
+    width: 30px;
+    height: 30px;
+}
+
+.icon-cart{
+    cursor: pointer;
+}
+.cartTab{
+    max-width: 650px;
+    background-color: #2B2B2B ;
+    box-shadow: -4px -4px 8px rgba(0, 0, 0, 0.217), -2px -2px 4px rgba(0, 0, 0, 0.06);
+    position: fixed;
+    top: 80px;
+    right: -400px;
+    bottom: 0;
+    transition: 0.5s;
+    overflow: scroll;
+}
+body.showcart .cartTab{
+    right: 0;
+}
+.buttons{
+    position: static;
+    bottom: 25px;
+}
+
+.iconAdd{
+    font-size: 20px;
+}
+

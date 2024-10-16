@@ -1,0 +1,37 @@
+.container{
+    transition: ;
+}
+.icon{
+    font-size: 40px;
+    position: relative;
+}
+.icon + span{
+    position: absolute;
+    top: 80px;
+    right: 90px;
+    width: 30px;
+    height: 30px;
+}
+.cartTab{
+    max-width: 550px;
+    background-color: #F5FFFA;
+    position: fixed;
+    top: 0;
+    right: -400px;
+    bottom: 0;
+    transition: 0.5s;
+    
+}
+body.showcart .cartTab{
+    right: 0;
+}
+body.showcart .container{
+    transform: translateX(-250px);
+}
+
+.iconAdd{
+    font-size: 20px;
+}
+.listCart{
+    overflow:auto;
+}

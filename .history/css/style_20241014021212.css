@@ -1,0 +1,13 @@
+body{
+    font-family: "Poppins", sans-serif;
+    min-height: 100vh;
+    background-image: url(../images/back.jpg);
+    background-size: cover;
+    background-position: right;
+    overflow: hidden;
+}
+.wrapper{
+background-color: antiquewhite;
+height: 100vh;
+width:max(40)
+}

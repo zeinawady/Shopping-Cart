@@ -1,0 +1,12 @@
+body{
+    background-image: url(../images/back2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.login{
+    background-color: rgba(196, 201, 201, 0.326);
+   max-width: 900px;
+}
+.text{
+    background-color: aliceblue;
+}

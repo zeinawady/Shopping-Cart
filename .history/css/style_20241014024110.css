@@ -1,0 +1,25 @@
+body{
+    font-family: "Poppins", sans-serif;
+    min-height: 100vh;
+    background-image: url(../images/back2.jpg);
+    background-size: cover;
+    background-position: center;
+    overflow: hidden;
+}
+.wrapper{
+/* width:max(20%,600px);  */
+
+/* depends on which value is bigger */
+}
+/* @media (min-width:768px) {
+    .wrapper{
+width:max(40%,600px); 
+
+    }
+} */
+ .col-12{
+    background-color: #d6d2d1d3;
+    color: #060706;
+height: 100vh;
+
+ }

@@ -1,0 +1,9 @@
+body{
+    background-image: url(../images/back2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.login{
+    background-color: rgba(235, 226, 214, 0.326);
+   max-width: 900px;
+}

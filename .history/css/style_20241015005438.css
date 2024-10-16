@@ -1,0 +1,9 @@
+.image{
+    font-family: "Poppins", sans-serif;
+    min-height: 100vh;
+    background-image: url(../images/back2.jpg);
+    background-size: cover;
+    background-position: center;
+    overflow: hidden;
+}
+

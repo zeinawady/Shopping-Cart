@@ -1,0 +1,10 @@
+body{
+    background-image: url(../);
+}
+.login{
+    background-color: aqua;
+   max-width: 900px;
+}
+.text{
+    background-color: aliceblue;
+}

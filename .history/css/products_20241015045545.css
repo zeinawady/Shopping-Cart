@@ -1,0 +1,15 @@
+.icon{
+    font-size: 40px;
+    position: relative;
+}
+.icon + span{
+    position: absolute;
+    top: 80px;
+    right: 90px;
+    width: 30px;
+    height: 30px;
+}
+.cartTab{
+    max-width: 400px;
+    background-color: beige;
+}

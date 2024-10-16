@@ -1,0 +1,10 @@
+.icon{
+    font-size: 40px;
+    position: relative;
+}
+.icon + span{
+    position: absolute;
+    top: 90px;
+    width: 30px;
+    je
+}
